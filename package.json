@@ -9,20 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewborstein/portfolio.git"
+    "url": "https://github.com/sumeetsahu/portfolio.git"
   },
   "keywords": [
     "github",
     "portfolio",
     "resume",
-    "andrewborstein.com"
+    "www.sumeetsahu.com"
   ],
-  "author": "andrew borstein",
+  "author": "Sumeet Sahu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andrewborstein/portfolio/issues"
+    "url": "https://github.com/sumeetsahu/portfolio/issues"
   },
-  "homepage": "https://github.com/andrewborstein/portfolio",
+  "homepage": "https://github.com/sumeetsahu/portfolio",
   "devDependencies": {
     "connect": "^3.6.6",
     "grunt": "^0.4.5",
